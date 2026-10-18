@@ -25,7 +25,7 @@ jobs:
     timeout-minutes: 20
     environment: far-repin-gate
     env:
-      FAR_REPOSITORY: notfoundout/Project-FAR
+      FAR_REPOSITORY: n0tf0und0ut/Project-FAR
       FAR_REPOSITORY_ID: "1283452680"
       FAR_DEPLOYED_COMMIT: e7224180cdda26a96396a6415a971ebe7e85fdf4
       FAR_APP_ID: "5073230"
